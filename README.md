@@ -22,11 +22,11 @@ python path_to_repository/guided_clustering_interface.py
 ```
 #### Screenshots of guided_clustering_interface.py
 ##### Discovery mode
-![extra_files/discovery_mode_screenshot.png](https://raw.githubusercontent.com/benfertig/signature-clustering/refs/heads/main/extra_files/discovery_mode_screenshot.png?token=GHSAT0AAAAAADBYVPOWOW5BXWBHXKPSIOUEZ7TC4SA)
+![extra_files/discovery_mode_screenshot.png](https://github.com/benfertig/signature-clustering/blob/main/extra_files/discovery_mode_screenshot.png)
 ##### Completion mode
-![extra_files/completion_mode_screenshot.png](https://raw.githubusercontent.com/benfertig/signature-clustering/refs/heads/main/extra_files/completion_mode_screenshot.png?token=GHSAT0AAAAAADBYVPOXVDDRUONR4KEWY6YMZ7TC7OQ)
+![extra_files/completion_mode_screenshot.png](https://github.com/benfertig/signature-clustering/blob/main/extra_files/completion_mode_screenshot.png)
 ##### Verification mode
-![extra_files/verification_mode_screenshot.png](https://raw.githubusercontent.com/benfertig/signature-clustering/refs/heads/main/extra_files/verification_mode_screenshot.png?token=GHSAT0AAAAAADBYVPOXPRRNEGN3TFEYE6OMZ7TDAOA)
+![extra_files/verification_mode_screenshot.png](https://github.com/benfertig/signature-clustering/blob/main/extra_files/verification_mode_screenshot.png)
 ### To run the automated clustering script
 ```
 python path_to_repository/signature_clustering.py
